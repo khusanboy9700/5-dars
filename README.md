@@ -2,3 +2,6 @@
 1-blog django
 username: admin
 password: 009700
+
+http://xusanboy-blog-1.herokuapp.com/
+
